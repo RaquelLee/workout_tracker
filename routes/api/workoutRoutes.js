@@ -18,7 +18,7 @@ router.post("/workouts", (req, res) => {
 //update workout
 router.put("/workouts/:id", (req, res) => {
     db.Workout.updateOne(
-        { _id: req.params },
+        { _id: req.params.id },
         { $push: { exercises: req.body } })
         .then(data => {
             res.json(data)
