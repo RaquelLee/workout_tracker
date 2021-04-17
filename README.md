@@ -10,7 +10,7 @@
 
 
 ## Deployed
-[Fitness Tracker on Heroku](https://quiet-taiga-91709.herokuapp.com/)
+[Fitness Tracker on Heroku](https://secure-eyrie-15419.herokuapp.com/)
 
 ## Technologies Used 
 * MongoDB
