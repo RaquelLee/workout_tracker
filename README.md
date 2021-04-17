@@ -4,7 +4,7 @@
 "What gets measured gets managed" isn't always true, but when it comes to the fitness world, tracking your workouts can give you valuable insights into your health and fitness routine! If it wasn't obvious, this is an application to track your workouts!
 
 ## :cinema: Usage
-![usage gif](https://github.com/RaquelLee/tech_blog/blob/main/public/assets/images/fitness_tracker.gif)
+![usage gif](https://github.com/RaquelLee/workout_tracker/blob/main/public/assets/images/fitness_tracker.gif)
 
 [Fitness Tracker Usage Video](https://drive.google.com/file/d/1WnQqaQJ2Mejzu0D7BMunpI3YKScb44DC/view)
 
